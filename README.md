@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swilliams404
-- 👀 I’m interested in ...Data Science/Data Analytics/WebDesign
+- 👀 I’m interested in ...Data Science/Data Analytics/Automation/AI
 - 🌱 I’m currently learning ...Python,React,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shaquille404@gmail.com
